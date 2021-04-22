@@ -1,1 +1,1 @@
-web: gunicorn app:sample_ml_model
+web: gunicorn sal_app:app
